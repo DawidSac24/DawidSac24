@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a first-year Bachelor's student at Leonard da Vinci High School in Belgium, pursuing a degree in Informatics with a focus on app development.<br>I'm currently working on a new project called ContextManager, which I highly recommend checking out.<br>I also developed a project named AutoMate as part of my Electronics Technician qualification at In.Ra.Ci.<br><br>
+I'm a first-year Bachelor's student at Leonard da Vinci High School in Belgium, pursuing a degree in Informatics with a focus on app development.<br>I'm currently working on a new project called [ContextManager](https://github.com/DawidSac24/ContextManager), which I highly recommend checking out.<br>I also developed a project named [AutoMate](https://github.com/DawidSac24/AutoMate) as part of my Electronics Technician qualification at In.Ra.Ci.<br><br>
 
 
 ## 🌐 Socials:
