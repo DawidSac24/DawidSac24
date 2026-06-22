@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a second-year Bachelor's student at Leonard da Vinci High School in Belgium, pursuing a degree in Informatics with a focus on app development.<br>I'm currently working on a new project, a chrome extension: [ContextManager](https://github.com/DawidSac24/ContextManager), which I highly recommend checking out.<br>I also developed a project named [AutoMate](https://github.com/DawidSac24/AutoMate) as part of my Electronics Technician qualification at In.Ra.Ci.<br><br>
-
+I'm a second-year Bachelor's student at Leonard da Vinci High School in Belgium, pursuing a degree in Informatics with a focus on app development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dawid-sac) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dawidsac24@gmail.com) 
